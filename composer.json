@@ -1,0 +1,14 @@
+{
+    "name": "linxiafan/demo",
+    "description": "a test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "linxiafan",
+            "email": "291316713@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
